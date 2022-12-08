@@ -15,7 +15,7 @@ Pre-procesamiento del DataSet:
 
 Las muestras de audio (1D) son convertidas a espectograma (2D), en donde se sigue el siguinte proceso:
  
- 1.- Cargar archivo
+ 1.- Cargar archivo\\
  2.- Aplicar padding a la señal (en caso de ser necesario)
  3.- Obtener el espectograma logaritmico de la señal 
  4.- Normalizar el espectograma
